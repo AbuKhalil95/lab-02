@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('Talons-Jp5a.ttf');
+}
+h1 {
+  font-size: 60px;
+}
+h1 span { 
+  font-family: 'MywebFont';
+}
+select {
+  padding: 10px;
+  margin: 30px auto;
+  border-radius: 4px;
+}
+img {
+  width: 250px;
+  height: 250px;
+  display: block;
+}
+
+#photo-template {
+  display: none;
+}
+
+h2, p {
+  margin: 5%;
+}
+
